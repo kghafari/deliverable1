@@ -1,0 +1,11 @@
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp2.0\Deliverable1.deps.json
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp2.0\Deliverable1.runtimeconfig.json
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp2.0\Deliverable1.runtimeconfig.dev.json
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp2.0\Deliverable1.dll
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\bin\Debug\netcoreapp2.0\Deliverable1.pdb
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp2.0\Deliverable1.csprojAssemblyReference.cache
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp2.0\Deliverable1.csproj.CoreCompileInputs.cache
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp2.0\Deliverable1.AssemblyInfoInputs.cache
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp2.0\Deliverable1.AssemblyInfo.cs
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp2.0\Deliverable1.dll
+C:\Users\Odin\source\repos\Deliverable1\Deliverable1\obj\Debug\netcoreapp2.0\Deliverable1.pdb
